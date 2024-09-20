@@ -1,0 +1,4 @@
+pdfminer.six
+PyMuPDF
+pillow
+tabula-py
